@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const app = express();
 app.use(cors());
 app.use(bodyParser.json())
-const port = process.env.PORT || 40354;
+const port = process.env.PORT || 8080;
 
 app.get("/movies", (req, res) => {
     connection.query("SELECT * FROM movies", (err, results) => {
