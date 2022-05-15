@@ -71,3 +71,7 @@ REFERINTE
  Video prezentare proiect: https://www.youtube.com/watch?v=y8dbfwrihhk
  Link deploy backend: https://mighty-springs-50951.herokuapp.com/movies (nu s-a reușit deploy-ul pentru frontend, se pot vizualiza înregistrarile existente în baza de date la acest URL)
  Link deploy frontend: https://murmuring-gorge-78410.herokuapp.com/ (nu funcționează)
+![image](https://user-images.githubusercontent.com/72129828/168489287-11992801-250f-4379-b22b-ab519570dbf0.png)
+![image](https://user-images.githubusercontent.com/72129828/168489289-fc8c83f3-746c-47c5-8175-9fa2eb355a4a.png)
+
+
